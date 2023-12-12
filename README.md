@@ -1,7 +1,8 @@
 
 # Iptables Management and Testing Utility
 
-![Script Screenshot](path/to/screenshot.png)
+![test2](https://github.com/Gadzhovski/IptablesAssistant/assets/93713208/48518a79-9127-4510-9067-1c936ff41f7e)
+
 
 This Bash script is a command-line tool designed to manage iptables rules and test network connections. It is particularly useful for network administrators and security professionals who need to quickly modify iptables configurations and verify network connections.
 
@@ -20,14 +21,6 @@ This Bash script is a command-line tool designed to manage iptables rules and te
 - iptables installed and configured on your system
 - nc (netcat) for testing network connections
 
-## Installation
-
-1. Clone or download the script from the repository.
-2. Make the script executable:
-
-   ```bash
-   chmod +x iptables_utility.sh
-   ```
 
 ## Usage
 
@@ -39,18 +32,14 @@ sudo ./iptables_utility.sh
 
 Follow the on-screen prompts to select the desired action. The options include setting iptables policies, listing rules, testing network connections, and more.
 
-## Example
-
-```bash
-sudo ./iptables_utility.sh
-```
-
-After running the script, choose an option from the menu to perform the desired action, such as setting iptables policies or testing connections.
 
 ## License
 
-[Your License Information]
+This project is licensed under the MIT License. See the LICENSE file for more details.
 
 ## Disclaimer
 
 This tool is intended for educational and administrative purposes only. Please ensure you have the proper authorization before modifying iptables rules or testing network connectivity on any system.
+
+## Credits
+Project developed by Radoslav Gadzhovski as part of coursework for the University of Greenwich.
