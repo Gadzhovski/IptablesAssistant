@@ -16,7 +16,6 @@ This Bash script is a command-line tool designed to manage iptables rules and te
 
 ## Prerequisites
 
-- Bash shell (typically available on most Unix-based systems)
 - sudo privileges
 - iptables installed and configured on your system
 - nc (netcat) for testing network connections
@@ -29,8 +28,6 @@ To run the script, execute it with superuser privileges:
 ```bash
 sudo ./iptables_utility.sh
 ```
-
-Follow the on-screen prompts to select the desired action. The options include setting iptables policies, listing rules, testing network connections, and more.
 
 
 ## License
