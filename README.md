@@ -33,10 +33,3 @@ sudo ./iptables_utility.sh
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
-
-## Disclaimer
-
-This tool is intended for educational and administrative purposes only. Please ensure you have the proper authorization before modifying iptables rules or testing network connectivity on any system.
-
-## Credits
-Project developed by Radoslav Gadzhovski as part of coursework for the University of Greenwich.
